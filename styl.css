@@ -1,6 +1,6 @@
-body{background-color: rgb(165, 212, 218); 
+body{background-color: rgb(206, 198, 181); 
     font-family: Arial, helvetica, sans-serif;
-    color: rgb(218, 156, 156);}
+    color: rgb(91, 76, 58);}
 
 h1{text-align: center; }
 header{ background-color: rgb(207, 166, 245);}
@@ -12,7 +12,8 @@ nav{width: 200px;
 
 p{width: 600px;
 height: 100px;
-margin-left: 150px;}
+margin-left: 150px;
+float: center;}
 
 
 img{ height: 100px;
@@ -22,6 +23,18 @@ article{height: 200px;
 border: thin solid rgb(0,0,1);
 border-radius: 10px;
 float:left;
-width: 200px;}
+width: 200px;
+margin-left: 100px;}
 
 
+section{width: 90;}
+
+table{width: 600px;
+text-align: center;
+margin: 0 auto;
+border-collapse: collapse;
+border: thin solid rgb(0,0,1);}
+
+th{height: 100px;}
+
+td{height: 100px;}
