@@ -16,7 +16,7 @@ margin-left: 150px;}
 
 
 img{ height: 100px;
-float: right;}
+float: none;}
 
 article{height: 200px;
 border: thin solid rgb(0,0,1);
@@ -33,6 +33,12 @@ text-align: center;
 margin: 0 auto;
 border-collapse: collapse;
 border: thin solid rgb(0,0,1);}
+
+ section,p{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
 
 th{height: 100px;}
 
